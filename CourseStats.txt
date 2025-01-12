@@ -1,0 +1,7 @@
+All Courses Currently being taught: 
+course: 301 course instructor : -1
+course: 101 course instructor : -1
+course: 130 course instructor : -1
+course: 230 course instructor : 10305
+course: 330 course instructor : 10305
+course: 201 course instructor : 10357
